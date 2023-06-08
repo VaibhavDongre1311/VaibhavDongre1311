@@ -61,9 +61,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 - [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
  -->
 ## `📈 GitHub Activity Graph:`
-</br>
 
-<h2 align='center'><i><a href="https://github.com/VaibhavDongre1311/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/VaibhavDongre1311/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavDongre1311&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
@@ -73,7 +71,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 </a>
 </p>
 
-</br>
+
 ## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VaibhavDongre1311&label=Profile%20views&color=0e75b6&style=circle" alt="VaibhavDongre1311" width="16%" /> </p>
 <p align='center'><img height="200em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavdongre1311&&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="vaibhavdongre1311" /></p>
