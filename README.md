@@ -26,6 +26,7 @@
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
 ## `Tools:`
+
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
 <img align="left" alt="Anaconda" height="50" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" /></p>
 <img align="left" alt="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" /> </a>
