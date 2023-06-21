@@ -1,7 +1,7 @@
 ![Linkedin_Cover_-_Data_Scientist_py4mog](https://wallpaperaccess.com/full/3959399.jpg)
 
 <h1 align="center">Hi 👋, I'm vaibhav Dongre</h1>
-<h3 align="center">A passionate Data Science and Data Analyst Enthusiast</h3>
+<h3 align="center">A passionate Data Science and Data Analysis Enthusiast</h3>
 
 - 🌱 I love learning as a process and mostly about new things...
 
