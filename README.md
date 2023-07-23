@@ -27,12 +27,6 @@
 
 ## `Tools:`
 
-<style>
-  .row {
-    margin-bottom: 20px; /* Adjust the value as per your desired spacing */
-  }
-</style>
-
 <!-- First Row -->
 <p align="center" class="row">
   <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50"/>
