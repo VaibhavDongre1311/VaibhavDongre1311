@@ -27,20 +27,38 @@
 
 ## `Tools:`
 
-<img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
-<img align="left" alt="Anaconda" height="50" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" /></p>
-<img align="left" alt="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" /> </a>
-<img align="left" alt="excel" height="50" src="https://d3j0t7vrtr92dk.cloudfront.net/stembakuniversity/1616519913_png-clipart-microsoft-excel-computer-icons-microsoft-template-angle-removebg-preview.png" />
-<img src="https://user-images.githubusercontent.com/94888819/179532814-fa9beb8f-0fd6-4160-8d47-650af59c58a1.png" alt="GC" width="50" height="50"/> </p>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
-<img align="left" src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tab" width="60" height="60"/> 
-<img  align="left" src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/da615a681b8d_w240.webp" alt="scikit_lesrn" width="60" height="60"/> 
-<img align="left" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*qLPQRrvSj4dEaS9iay3QkA.png" alt="seaborn" width="60" height="60"/> </a> 
-<img  align="left" src="https://d33wubrfki0l68.cloudfront.net/e33fd6f372aa5d51e7b0de4bd763bd983251881e/4b0f4/blog/customising-matplotlib/matplot_title_logo.png" alt="matplotlib" width="60" height="60"/> </p>
-<img align="left" alt="Powerbi" height="40" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" /> 
-<a
-href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/> </a>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" alt="python" width="50" height="50"/> </a></p>
+<!-- First Row -->
+<p align="center">
+  <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50"/>
+  <img align="left" alt="Anaconda" height="50" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png"/>
+  <img align="left" alt="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641"/>
+  <img align="left" alt="excel" height="50" src="https://d3j0t7vrtr92dk.cloudfront.net/stembakuniversity/1616519913_png-clipart-microsoft-excel-computer-icons-microsoft-template-angle-removebg-preview.png"/>
+</p>
+
+<!-- Second Row -->
+<p align="center">
+  <img align="left" src="https://user-images.githubusercontent.com/94888819/179532814-fa9beb8f-0fd6-4160-8d47-650af59c58a1.png" alt="GC" width="50" height="50"/>
+  <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img align="left" src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tab" width="60" height="60"/>
+    <img align="left" src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/da615a681b8d_w240.webp" alt="scikit_lesrn" width="60" height="60"/>
+    <img align="left" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*qLPQRrvSj4dEaS9iay3QkA.png" alt="seaborn" width="60" height="60"/>
+  </a>
+</p>
+
+<!-- Third Row -->
+<p align="center">
+  <img align="left" src="https://d33wubrfki0l68.cloudfront.net/e33fd6f372aa5d51e7b0de4bd763bd983251881e/4b0f4/blog/customising-matplotlib/matplot_title_logo.png" alt="matplotlib" width="60" height="60"/>
+  <img align="left" alt="Powerbi" height="40" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/>
+  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" alt="R" width="50" height="50"/>
+</p>
+
+
+
+
 
 ## `Connect with me:`
 <p align="left">
